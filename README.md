@@ -63,7 +63,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 # Alternatively: brew install uv (macOS)
 
 # Clone repository
-git clone <your-repo-url>
+git clone <repo-url>
 cd product-review-intelligence
 
 # Setup environment
