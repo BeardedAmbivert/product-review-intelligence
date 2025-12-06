@@ -11,7 +11,8 @@ wheels/
 .DS_Store
 *.pkl
 *.joblib
-data/*.csv
+data/*/
 
 # Virtual environments
 .venv
+.python-version
